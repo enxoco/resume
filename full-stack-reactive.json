@@ -1,0 +1,306 @@
+{
+	"awards": {
+		"heading": "Awards",
+		"visible": true
+	},
+	"certifications": {
+		"heading": "Certifications",
+		"visible": true
+	},
+	"education": {
+		"heading": "Education",
+		"visible": true
+	},
+	"hobbies": {
+		"heading": "Hobbies",
+		"items": [
+			{
+				"id": "0cc8c9d9-de43-4a67-b2d4-9d84ef49cfb6",
+				"name": "Rock Climbing"
+			}
+		],
+		"visible": true
+	},
+	"languages": {
+		"heading": "Languages",
+		"visible": true
+	},
+	"metadata": {
+		"colors": {
+			"background": "#494746",
+			"primary": "#61ce70",
+			"text": "white"
+		},
+		"font": "Source Sans Pro",
+		"fontSize": "10",
+		"language": "en",
+		"layout": {
+			"castform": [
+				[
+					"awards",
+					"certifications",
+					"languages",
+					"hobbies"
+				],
+				[
+					"objective",
+					"work",
+					"education",
+					"skills",
+					"projects",
+					"references"
+				]
+			],
+			"celebi": [
+				[
+					"awards",
+					"certifications",
+					"languages",
+					"hobbies"
+				],
+				[
+					"objective",
+					"work",
+					"education",
+					"skills",
+					"projects",
+					"references"
+				]
+			],
+			"gengar": [
+				[
+					"objective",
+					"skills"
+				],
+				[
+					"awards",
+					"certifications",
+					"languages",
+					"references",
+					"hobbies"
+				],
+				[
+					"work",
+					"education",
+					"projects"
+				]
+			],
+			"glalie": [
+				[
+					"awards",
+					"certifications",
+					"hobbies"
+				],
+				[
+					"objective",
+					"work",
+					"education",
+					"skills",
+					"projects",
+					"languages",
+					"references"
+				]
+			],
+			"onyx": [
+				[
+					"objective",
+					"work",
+					"education",
+					"projects"
+				],
+				[
+					"hobbies",
+					"languages",
+					"awards",
+					"certifications"
+				],
+				[
+					"skills",
+					"references"
+				]
+			],
+			"pikachu": [
+				[
+					"skills",
+					"languages",
+					"hobbies",
+					"awards",
+					"certifications"
+				],
+				[
+					"work",
+					"education",
+					"projects",
+					"references"
+				]
+			]
+		},
+		"template": "onyx"
+	},
+	"objective": {
+		"body": "Solution driven professional excelling in highly collaborative work environment, finding solutions to challenges and passionate about learning and growing. Proven experience developing consumer-focused web sites using Node.js, Vue.js, React, JavaScript and PHP. Experience building applications for desktop and mobile users meeting high standards for web design, user experience, best practices, usability and speed.\nResponds to challenges by designing and developing solutions and building web apps to meet client needs. Translating solutions into code\nand working across many dierent APIs, frameworks, third-party integrations and databases.\n",
+		"heading": "Objective",
+		"visible": true
+	},
+	"preview": "https://images.unsplash.com/photo-1634758546539-237fc75947fe?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=600&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTYzNDk0NTY2NQ&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=400",
+	"profile": {
+		"address": {
+			"city": "Wildwood",
+			"line1": "86 Carroll Road",
+			"line2": "",
+			"pincode": "30757"
+		},
+		"birthDate": "",
+		"email": "mikeconrad@onmail.com",
+		"firstName": "Mike",
+		"heading": "Full Stack Developer",
+		"lastName": "Conrad",
+		"phone": "423-314-5381",
+		"photograph": "https://iliveinaterminal.com/wp-content/uploads/2019/09/test-clear.gif",
+		"subtitle": "Full Stack Developer",
+		"website": "https://iliveinaterminal.com"
+	},
+	"projects": {
+		"heading": "Projects",
+		"items": [
+			{
+				"endDate": "",
+				"id": "b90e6860-9a9c-44f3-918b-5b4270d8d809",
+				"link": "https://github.com/enxoco/change-detector-ui",
+				"startDate": "2021-10-01",
+				"summary": "An app written in GO to help automate the process of visual regression testing.  Takes screenshots of sites and compares them to a previous screenshot to determine if anything has changed on the page.  If changes are detected, they will be highlighted on the image.   Frontend built in React/Typescript/GraphQL.",
+				"title": "Change Detector"
+			},
+			{
+				"endDate": "",
+				"id": "1500ff06-1438-4f90-bcd7-456bf4d93c47",
+				"link": "https://github.com/enxoco/time-tracker",
+				"startDate": "2020-07-01",
+				"summary": "Simple to-do list/time tracking app built in Vue.js. Built to help me keep track of time spent on jobs for clients throughout the day.",
+				"title": "Time Tracker"
+			}
+		],
+		"visible": true
+	},
+	"public": true,
+	"references": {
+		"heading": "References",
+		"visible": true
+	},
+	"skills": {
+		"heading": "Skills",
+		"items": [
+			{
+				"id": "c60e215d-220a-4b01-8d71-1cd4e22952e9",
+				"level": "",
+				"name": "ReactJS"
+			},
+			{
+				"id": "082079cd-94e9-4003-9610-f6b9529a2cf3",
+				"level": "",
+				"name": "NodeJS"
+			},
+			{
+				"id": "009769dd-1b2c-4532-ab2b-6b63026da64c",
+				"level": "",
+				"name": "PHP"
+			},
+			{
+				"id": "b26097de-e14a-4761-b953-7acb03852623",
+				"level": "",
+				"name": "GoLang"
+			},
+			{
+				"id": "463f8d09-f9ab-4d93-9144-41269c9a918c",
+				"level": "",
+				"name": "MYSQL"
+			},
+			{
+				"id": "64b441a9-35d0-4852-8e8d-06e451a5fb8d",
+				"level": "",
+				"name": "MongoDB"
+			},
+			{
+				"id": "1df48ba7-d52b-4f85-be2d-a6d68b1f8e64",
+				"level": "",
+				"name": "LAMP Stack"
+			},
+			{
+				"id": "c2dc976f-a144-418a-8820-db4835c8b727",
+				"level": "",
+				"name": "MERN Stack"
+			},
+			{
+				"id": "201b5675-9b3f-4567-8a0a-f85f7f1a74b8",
+				"level": "",
+				"name": "Python"
+			},
+			{
+				"id": "01cd3a98-56ad-4420-95b5-6f4c8982bfca",
+				"level": "",
+				"name": "GraphQL"
+			}
+		],
+		"visible": true
+	},
+	"social": {
+		"heading": "Social Network",
+		"items": [
+			{
+				"id": "f888a06e-a726-42a0-af0b-23771bccf09e",
+				"network": "LinkedIn",
+				"url": "https://www.linkedin.com/in/mikeenxo",
+				"username": "mikeenxo"
+			},
+			{
+				"id": "c20740ce-5418-469d-b9de-4b3eca343ae5",
+				"network": "Github",
+				"url": "https://github.com/enxoco",
+				"username": "enxoco"
+			}
+		],
+		"visible": true
+	},
+	"work": {
+		"heading": "Work Experience",
+		"items": [
+			{
+				"company": "The Morrison Agency",
+				"endDate": "",
+				"id": "22de6a3e-bb06-4f0f-a046-f43a457beb31",
+				"position": "Senior Frontend Developer",
+				"startDate": "2020-11-30",
+				"summary": "Responsible for building/maintaining websites for clients on a global and national scale.  Builds backend API integrations for various platforms.  ",
+				"website": "https://morrison.agency"
+			},
+			{
+				"company": "Virtual Inc.",
+				"endDate": "",
+				"id": "d3fc885c-6a8b-489a-8fee-acb65fdc5240",
+				"position": "Junior Web Developer",
+				"startDate": "2019-10-19",
+				"summary": "Worked with Marketing and Design team as well as directly with clients to build,upgrade, and maintain websites for a number of high profile standards based technology organizations. Built custom Wordpress templates using ACF and Twig templating. Built and maintains custom plugins and themes.",
+				"website": "https://virtualinc.com"
+			},
+			{
+				"company": "Calvary Chapel Chattanooga",
+				"endDate": "2017-12-30",
+				"id": "67dfba20-6b5b-4a3f-88ac-977db45f3b64",
+				"position": "Network Admin/Developer",
+				"startDate": "2015-03-01",
+				"summary": "Hands on experience using Linux with Apache/Nginx Web Servers. Used programming capabilities in PHP, SQL and Node.js to develop custom desktop/mobile apps and solutions to streamline daily operations for multiple departments.  Worked directly with department heads to understand and support technology needs for various ministries and departments.\n",
+				"website": "https://calvarychatt.com"
+			},
+			{
+				"company": "Enxo LLC",
+				"endDate": "2021-01-01",
+				"id": "fc30761f-c465-4b83-b1b2-64b9081995ce",
+				"position": "Founder/Full Stack Developer",
+				"startDate": "2017-01-01",
+				"summary": "Built and maintained parental control software for individuals and organizations. Utilized Node.js to build out a fully custom landing page and user portal to allow customers and accountability parents to run detailed reports on browsing activity. Integrated a number of REST API's. Built iOS app and desktop app for customer onboarding.\n",
+				"website": ""
+			}
+		],
+		"visible": true
+	}
+}
